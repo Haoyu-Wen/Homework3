@@ -1,0 +1,3 @@
+Saving eval result in eval_results/CLEVR/AdvanceMCCFormers-D/base_reverse_CLEVR_decode_twice_epoch4_decode_twice_xxx.json
+############
+Avg blue-score is 0.178

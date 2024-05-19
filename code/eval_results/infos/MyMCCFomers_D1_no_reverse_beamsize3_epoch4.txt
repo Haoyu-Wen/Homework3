@@ -1,0 +1,3 @@
+Saving file in eval_results/CLEVR/MyMCCFormers-D-1/base_no_reverse_epoch4xxx.json
+############
+Avg blue-score is 0.178
