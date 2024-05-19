@@ -1,5 +1,5 @@
 这里会存checkpoints
-
+下载链接[onedrive link](https://1drv.ms/f/s!AqFfbsotBTJWgahECzNkLC1zSJQANQ?e=ukeNtt)
 
 
 ![image-20240519223031701](https://navinvue.oss-cn-beijing.aliyuncs.com/202405192230483.png)
