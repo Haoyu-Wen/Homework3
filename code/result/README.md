@@ -1,4 +1,5 @@
 这里会存checkpoints
+*!!!🆕新增change=1（两幅图之间只有一处变化，之前为3个）的checkpoints!*
 下载链接[onedrive link](https://1drv.ms/f/s!AqFfbsotBTJWgahECzNkLC1zSJQANQ?e=ukeNtt)
 
 
